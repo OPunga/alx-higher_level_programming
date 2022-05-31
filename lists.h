@@ -9,10 +9,10 @@
  * @next: points to the next node
  *
  * Description: singly linked list node structure
- * for alx project
+ * for Alx project
  */
 typedef struct listint_s
-{
+{i
 	int n;
 	struct listint_s *next;
 } listint_t;
