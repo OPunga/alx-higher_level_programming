@@ -1,3 +1,5 @@
-for ch in range(97, 123):
-    if ch != 101 and ch != 113:
-        print("{:c}".format(ch), end='')
+#!/usr/bin/python3
+
+for i in range(0, 26):
+    if i not in (4, 16):
+        print("{:c}".format(i + 97), end="")
