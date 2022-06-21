@@ -1,6 +1,11 @@
 #!/usr/bin/python3
+"""
+0-square.py
+"""
 
 
 class Square:
-    """Empty Class"""
+    """
+    Defines a square
+    """
     pass
