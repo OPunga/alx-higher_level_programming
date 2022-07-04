@@ -1,5 +1,5 @@
 #!/usr/bin/python3
-"""Ronny"""
+"""2-i_same"""
 
 
 def is_same_class(obj, a_class):
@@ -8,9 +8,7 @@ def is_same_class(obj, a_class):
     object being
     class attribute
     """
-
-
-if type(obj) is a_class:
-    return True
-else:
-    False
+    if type(obj) is a_class:
+        return True
+    else:
+        False
