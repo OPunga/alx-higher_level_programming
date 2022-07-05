@@ -1,9 +1,10 @@
 #!/usr/bin/python3
-"""json"""
-from json import dumps
+"""append a file"""
 
 
-def to_json_string(my_obj):
-    """json representation of a string object"""
+def append_write(filename="", text=""):
+    """a function that appends to a text file"""
+    with open(filename, "a", encoding="utf-8") as f:
+        return f.write(text)
 
-    return dumps(my_obj)
+
