@@ -1,1 +1,4 @@
-# 0x0A. Python - Inheritance
+### Hello there!
+
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=OPunga&show_icons=true&theme=radical)
