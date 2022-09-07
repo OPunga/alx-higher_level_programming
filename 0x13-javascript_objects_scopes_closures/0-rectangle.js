@@ -1,4 +1,4 @@
 #!/usr/bin/node
-//writes and empty rectangle
+// Write an empty class Rectangle that defines a rectangle.
 
-module.exports = class Rectangle {};
+module.exports = class Rectangle { };
